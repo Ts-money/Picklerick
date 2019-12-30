@@ -1,5 +1,5 @@
 {
-  "main.css": "/Picklerick/static/css/main.50336d78.chunk.css",
+  "main.css": "/Picklerick/static/css/main.3e6293b7.chunk.css",
   "main.js": "/Picklerick/static/js/main.62af12af.chunk.js",
   "main.js.map": "/Picklerick/static/js/main.62af12af.chunk.js.map",
   "runtime~main.js": "/Picklerick/static/js/runtime~main.041e51af.js",
@@ -7,9 +7,9 @@
   "static/js/2.f707080e.chunk.js": "/Picklerick/static/js/2.f707080e.chunk.js",
   "static/js/2.f707080e.chunk.js.map": "/Picklerick/static/js/2.f707080e.chunk.js.map",
   "index.html": "/Picklerick/index.html",
-  "precache-manifest.6c2146d284eeb3902f2b983db95afd9a.js": "/Picklerick/precache-manifest.6c2146d284eeb3902f2b983db95afd9a.js",
+  "precache-manifest.6cb20e893e9ec66c18906ddb884ac854.js": "/Picklerick/precache-manifest.6cb20e893e9ec66c18906ddb884ac854.js",
   "service-worker.js": "/Picklerick/service-worker.js",
-  "static/css/main.50336d78.chunk.css.map": "/Picklerick/static/css/main.50336d78.chunk.css.map",
+  "static/css/main.3e6293b7.chunk.css.map": "/Picklerick/static/css/main.3e6293b7.chunk.css.map",
   "static/media/header.css": "/Picklerick/static/media/get_schwifty.4b4420cf.ttf",
   "static/media/logo.svg": "/Picklerick/static/media/logo.495d93cc.svg"
 }

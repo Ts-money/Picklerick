@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/Picklerick/static/js/runtime~main.041e51af.js"
   },
   {
-    "revision": "e3b1936d3b6c6fe17bed",
+    "revision": "1696a38130580ead978f",
     "url": "/Picklerick/static/js/main.62af12af.chunk.js"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/Picklerick/static/js/2.f707080e.chunk.js"
   },
   {
-    "revision": "e3b1936d3b6c6fe17bed",
-    "url": "/Picklerick/static/css/main.50336d78.chunk.css"
+    "revision": "1696a38130580ead978f",
+    "url": "/Picklerick/static/css/main.3e6293b7.chunk.css"
   },
   {
-    "revision": "09af38ba82075fa49c145482ca90a39e",
+    "revision": "fd6487ef9bf834fe71a674b268553e91",
     "url": "/Picklerick/index.html"
   }
 ];

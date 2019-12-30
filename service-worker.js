@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Picklerick/precache-manifest.6c2146d284eeb3902f2b983db95afd9a.js"
+  "/Picklerick/precache-manifest.6cb20e893e9ec66c18906ddb884ac854.js"
 );
 
 workbox.clientsClaim();
