@@ -4,16 +4,16 @@
 }
 
 .counter {
-    color: lime;
+    color: black;
     font-family: 'rickandmorty';
 }
 .instructions {
-    color: blue;
+    color: darkred;
     font-family: 'rickandmorty';
 }
 
 .title {
-    color: purple;
+    color: #ff8300;
     font-family: 'rickandmorty';
 }
 
