@@ -1,0 +1,23 @@
+.navv {
+    background-color: black;
+    text-align: center;
+}
+
+.counter {
+    color: lime;
+    font-family: 'rickandmorty';
+}
+.instructions {
+    color: blue;
+    font-family: 'rickandmorty';
+}
+
+.title {
+    color: purple;
+    font-family: 'rickandmorty';
+}
+
+@font-face {
+    font-family: 'rickandmorty';
+    src: url('get_schwifty.ttf');
+}

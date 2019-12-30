@@ -1,0 +1,11 @@
+.card {
+    background-color: transparent;
+    margin: 1rem 2rem;
+    position: relative;
+    display: inline-block;
+}
+
+.picture {
+    height: 150px;
+    width: 150px;
+}
